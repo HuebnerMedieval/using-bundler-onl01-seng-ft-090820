@@ -11,5 +11,5 @@ group :development do
 end
 
 group :test do
-  gem "rpec"
+  gem "rspec"
 end
